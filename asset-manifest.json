@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodworld-Reactapp/static/css/main.f4d7413a.css",
+    "main.js": "/foodworld-Reactapp/static/js/main.71887dfe.js",
+    "index.html": "/foodworld-Reactapp/index.html",
+    "main.f4d7413a.css.map": "/foodworld-Reactapp/static/css/main.f4d7413a.css.map",
+    "main.71887dfe.js.map": "/foodworld-Reactapp/static/js/main.71887dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d7413a.css",
+    "static/js/main.71887dfe.js"
+  ]
+}
